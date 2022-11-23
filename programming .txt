@@ -4,4 +4,4 @@ Front end : Html5,css,javascript
 Backend : Python,java
 Frame work : Django
 Database : My Sql
-Operating system : windows(all versions)
+
