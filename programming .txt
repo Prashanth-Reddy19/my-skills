@@ -6,3 +6,5 @@ Frame work : Django
 Database : My Sql
 
 Thank you
+
+Done with changes
